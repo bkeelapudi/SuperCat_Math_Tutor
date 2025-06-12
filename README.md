@@ -1,6 +1,6 @@
-# Math Q&A Slack Bot (Python)
+# Math Q&A Slack Bot
 
-A simple Slack bot that provides expert math tutoring for your team using the Strands Agents SDK. This bot automatically detects math questions in channels and provides step-by-step solutions.
+A simple Slack bot that provides expert math tutoring for your team using the **Strands Agents SDK** . This bot automatically detects math questions in channels and provides step-by-step solutions.
 
 ## Features
 
