@@ -1,4 +1,4 @@
-# Math Q&A Slack Bot
+# SuperCat Math Q&A Slack Bot
 
 ![supercat math tutor ](https://github.com/user-attachments/assets/487cd0f3-d03e-492a-9e82-31570bf0d7cc)
 
