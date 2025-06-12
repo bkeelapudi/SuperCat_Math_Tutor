@@ -1,5 +1,8 @@
 # Math Q&A Slack Bot
 
+![Alt text](![supercat math tutor ](https://github.com/user-attachments/assets/487cd0f3-d03e-492a-9e82-31570bf0d7cc)
+)
+
 A simple Slack bot that provides expert math tutoring for your team using the **Strands Agents SDK** . This bot automatically detects math questions in channels and provides step-by-step solutions.
 
 ## Features
